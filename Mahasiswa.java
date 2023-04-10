@@ -32,6 +32,5 @@ public class Mahasiswa {
                     data.kelas + ", mata kuliah praktikum : " + data.matkulPraktikum +
                     ". nim : " + data.nim);
         }
-
     }
 }

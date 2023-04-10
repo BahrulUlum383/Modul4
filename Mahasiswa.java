@@ -30,8 +30,7 @@ public class Mahasiswa {
         if (data != null) {
             System.out.println("Data Mahasiswa : " + data.nama + ", Kelas : " +
                     data.kelas + ", mata kuliah praktikum : " + data.matkulPraktikum +
-                    ". nim : " + data.nim
-            );
+                    ". nim : " + data.nim);
         }
 
     }
